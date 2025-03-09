@@ -1,0 +1,6 @@
+Whatsup changes:
+Author: Ananthi
+
+1. check last seen
+
+2.chat screen code
